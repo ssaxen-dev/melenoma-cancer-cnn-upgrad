@@ -30,10 +30,10 @@ model 1
 ![result images/model1.png](https://github.com/ssaxen-dev/melenoma-cancer-cnn-upgrad/blob/main/result%20images/model1.png)
 
 model 2
-https://github.com/ssaxen-dev/melenoma-cancer-cnn-upgrad/blob/main/result%20images/model2.png
+![result images/model2.png]https://github.com/ssaxen-dev/melenoma-cancer-cnn-upgrad/blob/main/result%20images/model2.png
 
 model 3
-https://github.com/ssaxen-dev/melenoma-cancer-cnn-upgrad/blob/main/result%20images/model3.png
+![result images/model3.png]https://github.com/ssaxen-dev/melenoma-cancer-cnn-upgrad/blob/main/result%20images/model3.png
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
