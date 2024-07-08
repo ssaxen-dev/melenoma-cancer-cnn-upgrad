@@ -26,7 +26,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Class has rebalanced which helped in achieving the training and validation accuracy
 - Overfitting issue is resolved
 
-
+model 1
+result images/model1.png
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
